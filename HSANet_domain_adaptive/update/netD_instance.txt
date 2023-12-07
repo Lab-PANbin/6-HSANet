@@ -1,0 +1,6 @@
+netD_ins.dc_ip1.weight
+netD_ins.dc_ip1.bias
+netD_ins.dc_ip2.weight
+netD_ins.dc_ip2.bias
+netD_ins.clssifer.weight
+netD_ins.clssifer.bias

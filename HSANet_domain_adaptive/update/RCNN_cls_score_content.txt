@@ -1,0 +1,2 @@
+RCNN_cls_score_content.weight
+RCNN_cls_score_content.bias
